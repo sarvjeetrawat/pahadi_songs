@@ -6,9 +6,9 @@
         "description": "A popular Garhwali song."
     },
     {
-        "name": "Song 2",
-        "file": "songs/song2.mp3",
-        "image": "images/song2.jpg",
-        "description": "A melodious Kumaoni song."
+        "name": "Jay Bhole",
+        "file": "songs/shambhu-bhole.mp3",
+        "image": "images/jay_bhole.PNG",
+        "description": "Jai Bhole Garhwali Bhajan | Kuldeep Kaprwan &Vikram Kaprwan | Hema Negi Karasi."
     }
 ]
