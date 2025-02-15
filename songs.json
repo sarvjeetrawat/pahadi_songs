@@ -1,14 +1,16 @@
-[
-    {
-        "name": "Lal Botal Sharaba",
-        "file": "songs/songs/lal-botal-sharaba.mp3",
-        "image": "images/laal_botle_saraba.PNG",
-        "description": "A popular Garhwali song."
-    },
-    {
-        "name": "Jay Bhole",
-        "file": "songs/shambhu-bhole.mp3",
-        "image": "images/jay_bhole.PNG",
-        "description": "Jai Bhole Garhwali Bhajan | Kuldeep Kaprwan &Vikram Kaprwan | Hema Negi Karasi."
-    }
-]
+{
+    "songs": [
+        {
+            "name": "Lal Botal Sharaba",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/lal-botal-sharaba.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/laal_botle_saraba.PNG",
+            "description": "A popular Garhwali song."
+        },
+        {
+            "name": "Jay Bhole",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/shambhu-bhole.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/jay_bhole.PNG",
+            "description": "Jai Bhole Garhwali Bhajan | Kuldeep Kaprwan & Vikram Kaprwan | Hema Negi Karasi."
+        }
+    ]
+}
