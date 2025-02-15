@@ -1,1 +1,14 @@
-
+[
+    {
+        "name": "Lal Botal Sharaba",
+        "file": "songs/lal-botal-sharab.mp3",
+        "image": "images/lal-botal-sharab.jpg",
+        "description": "A popular Garhwali song."
+    },
+    {
+        "name": "Song 2",
+        "file": "songs/song2.mp3",
+        "image": "images/song2.jpg",
+        "description": "A melodious Kumaoni song."
+    }
+]
