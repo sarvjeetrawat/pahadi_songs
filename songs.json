@@ -17,6 +17,12 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ransingh-bajo-priyanka-meher.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ransingh_bazo.PNG",
             "description": "Ransingh Baajo (Garhwali Song) · Priyanka Meher · UK Rapi Boy."
+        },
+ 	{
+            "name": "Aejadi Bhagyani",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/eajadi-bhagyani.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ajandi_bhagyani.PNG",
+            "description": "Aejadi Bhagyani Garhwali Full Album (Audio) Jukebox | Narendra Singh Negi, Meena Rana."
         }
     ]
 }
