@@ -71,6 +71,66 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/gulabi_sharara.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/gulabi_sharara.jpg",
             "description": "Inder Arya."
+        },
+        {
+            "name": "Cream Paudara",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/cream_paudara.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/cream_paudara.jpg",
+            "description": "Rakesh Khanwal & Maya Upadhyay."
+        },
+ 	{
+            "name": "Mathu-Mathu",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/Mathu-Mathu.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/Mathu-Mathu.jpeg",
+            "description": "Inder Arya & Jyoti Arya."
+        },
+	{
+            "name": "Myara Saiyaan Jee",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/myara_saiyaan_jee.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/myara_saiyaan_jee.jpeg",
+            "description": "Diksha Dhoundiyal."
+        },
+	{
+            "name": "Mai Chu Beautiful",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/mai_chu_beautiful.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/mai_chu_beautiful.jpeg",
+            "description": "Nand Kishor Pandey & Mamta Arya."
+        },
+	{
+            "name": "Sawri Sawri",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/savri_savri.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/savri_savri.jpeg",
+            "description": "Inder Arya."
+        },
+	{
+            "name": "RAMDAI KA HOTEL",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ramdai_ka_hotal.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ramdai_ka_hotal.jpeg",
+            "description": "SATYENDRA GANGOLA & SWATI BHATT."
+        },
+	{
+            "name": "Kalya Ki Bwari",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kalya_ki_bwari.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kalya_ki_bwari.jpeg",
+            "description": "Rohit Chauhan & Babli Uniyal Saklani."
+        },
+	{
+            "name": "Chaha Ko Hotel",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/chaha_ko_hotel.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chaha_ko_hotel.jpeg",
+            "description": "Manoj Arya & Maya Upadhyay."
+        },
+	{
+            "name": "Chunki छुणकी",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/chunki_chori.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chunki_chori.jpeg",
+            "description": "Suri Sajwan."
+        },
+	{
+            "name": "KURTI TERI LAAL",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kurti_teri_laal.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kurti_teri_laal.jpeg",
+            "description": "Inder Arya."
         }
 
     ]
