@@ -221,6 +221,42 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/masterji.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/masterji.jpeg",
             "description": "Kishan Mahipal, Aditya Singh."
+        },
+	    {
+            "name": "Trijugi Narayan",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/trijugi_narayan.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/trijugi_narayan.jpeg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Dhol Damau Baji Gena",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dhol_damo_bajigena.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhol_damo_bajigena.jpeg",
+            "description": "Sangeeta Dhoundiyal."
+        },
+	{
+            "name": "Hey Madhu",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/hey_madhu.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/hey_madhu.jpeg",
+            "description": "Inder Arya."
+        },
+	{
+            "name": "Ab Laglu Mandaan",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ab_lagalu_mandan.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ab_lagalu_mandan.jpeg",
+            "description": "Karishma Shah, Ruhaan Bhardwaj."
+        },
+	{
+            "name": "Thal Ki Bazar",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/thal_ki_bazar.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/thal_ki.jpeg",
+            "description": "B. K. Samant."
+        },
+	{
+            "name": "Tero Lehenga 2",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/lehnga2.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/lehnga2.jpeg",
+            "description": " Inder arya & Jyoti arya."
         }
 
     ]
