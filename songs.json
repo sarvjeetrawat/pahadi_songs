@@ -23,6 +23,24 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/eajadi-bhagyani.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ajandi_bhagyani.PNG",
             "description": "Aejadi Bhagyani Garhwali Full Album (Audio) Jukebox | Narendra Singh Negi, Meena Rana."
+        },
+ 	{
+            "name": "Huliya",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/huliya-garhwali-song.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/huliya.jpeg",
+            "description": "HULIYA 6 Number Puliya ."
+        },
+ 	{
+            "name": "Kati Jali Moru",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kati-jalu-moru-chori.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kati_jali_moru.jpg",
+            "description": "Singer- Diwan singh panwar, meena rana."
+        },
+ 	{
+            "name": "Bareily ku Jumka",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bareilly-ka-jhumka.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bareily_ku_jumka.jpeg",
+            "description": "Rohit Chauhan."
         }
     ]
 }
