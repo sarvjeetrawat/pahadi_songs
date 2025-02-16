@@ -256,7 +256,13 @@
             "name": "Tero Lehenga 2",
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/lehnga2.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/lehnga2.jpeg",
-            "description": " Inder arya & Jyoti arya."
+            "description": "Inder arya & Jyoti arya."
+        },
+	{
+            "name": "Dhol Damo Ki Thap",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dhol_damo_ki_thap.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhol_damo_ki_thap.jpeg",
+            "description": "Saurav Maithani, Darshan Farswan and Meghna Chandra."
         }
 
     ]
