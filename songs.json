@@ -131,6 +131,96 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kurti_teri_laal.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kurti_teri_laal.jpeg",
             "description": "Inder Arya."
+        },
+	{
+            "name": "Ghungroo",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ghungroo.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ghungru.jpeg",
+            "description": "Rohit Chauhan, Raj Tiger."
+        },
+	{
+            "name": "TERA NAKHRA",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tera_nakhra.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tera_nakhra.jpeg",
+            "description": "Rohit Chauhan."
+        },
+	{
+            "name": ""क्या जि बोलूं। Kya Ji Bolu",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kya_ji_bolu.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kya_ji_bolu.jpeg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Twee Chayee",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/twee_chayee.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/twee_chayee.jpeg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "BHAMA MERI",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bhama_meri.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bhama_meri.jpeg",
+            "description": "AMIT KHARRE & MEENA RANA."
+        },
+	{
+            "name": "Sapna Syali ( सपना स्याली )",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sapna_syali.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/sapna_syali.jpeg",
+            "description": "SANJAY BHANDARI , SAURAV MAITHANI & ANISHA RANGHAR RAP : RAJ TIGER."
+        },
+	{
+            "name": "Chori Chandra",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/chori_chandra.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chori_chandra.jpeg",
+            "description": "Rohit Chauhan."
+        },
+	{
+            "name": "Left Right",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/left_right.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/left_right.jpeg",
+            "description": "Inder Arya."
+        },
+	{
+            "name": "DHAN SINGH KI GAADI",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dhan_singh_ki_gaadi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhan_singh_ki_gaadi.jpeg",
+            "description": "Rohit Chauhan."
+        },
+	{
+            "name": "Pahadi Bhuli Ge (पहाड़ी भूली गे)",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pahadi_bhuli_ge.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pahadi_bhuli_ge.jpeg",
+            "description": "Rohit Chauhan."
+        },
+	{
+            "name": "SHRIMATI JI",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/shrimatiji.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/shrimatiji.jpeg",
+            "description": "Rohit Chauhan."
+        },
+	{
+            "name": "Bwari Chaha Bane De",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bwari_chaha_bane_de.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bwari_chaha_bane_de.jpeg",
+            "description": "LALIT GITYAR & MAMTA ARYA."
+        },
+	{
+            "name": "Himuli",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/himuli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/himuli.jpeg",
+            "description": "Rakesh Khanwal & Mamta Arya."
+        },
+	{
+            "name": "Pahadon Ko Raibasi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pahado_ku_raibasi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pahado_ku_raibasi.jpeg",
+            "description": "SAURAV MAITHANI & ANJALI KHARRE."
+        },
+	{
+            "name": "मास्टर जी ( Master Ji)",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/masterji.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/masterji.jpeg",
+            "description": "Kishan Mahipal, Aditya Singh."
         }
 
     ]
