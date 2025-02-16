@@ -41,6 +41,37 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bareilly-ka-jhumka.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bareily_ku_jumka.jpeg",
             "description": "Rohit Chauhan."
+        },
+ 	{
+            "name": "Min ta suni tera goan ma band rhendi kui",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/min-ta-suni-tera-gaon-ma-bandh-rhendi-kui.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/min_ti_suni.jpeg",
+            "description": "Narendra Singh Negi, Meena Rana."
+        },
+ 	{
+            "name": "Khojyali Min Khojyali",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/khojyali-saari-munthya.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/khojyali_min_khojyali.jpeg",
+            "description": "Narendra Singh Negi, Anuradha Nirala."
+        },
+ 	{
+            "name": "Teelu Bakhri",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/teelu_bakhri.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/khojyali_min_khojyali.jpeg",
+            "description": "Narendra Singh Negi."
+        },
+ 	{
+            "name": "Geet Lana Tandi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/geet-lana-tandi-bal.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/khojyali_min_khojyali.jpeg",
+            "description": "Narendra Singh Negi, Anuradha Paudwal."
+        },
+ 	{
+            "name": "Gulabi Sharara",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/gulabi_sharara.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/gulabi_sharara.jpeg",
+            "description": "Inder Arya."
         }
+
     ]
 }
