@@ -263,7 +263,44 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dhol_damo_ki_thap.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhol_damo_ki_thap.jpeg",
             "description": "Saurav Maithani, Darshan Farswan and Meghna Chandra."
+        },
+	    {
+            "name": "DHINGTALO | धिंगतालो",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dhingtalo.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhingtalo.jpeg",
+            "description": "SAURAV MAITHANI."
+        },
+	{
+            "name": "Jhumki",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/jhumki.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/jhumki.jpeg",
+            "description": "Priyanka Maher."
+        },
+	{
+            "name": "Jhumkyali Jhumkyali",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/jhumkyali.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/jhumkyali.jpeg",
+            "description": "Darshan Farswan."
+        },
+	{
+            "name": "Meru Jhumku",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/meru_jhumku.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/meru_jhumku.jpeg",
+            "description": "AMIT KHAREE, CHANDANA NEGI."
+        },
+	{
+            "name": "Main Chu Nouni Pauri Ki",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/main_chu_noni_pauri_ki.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/main_chu_noni_pauri_ki.jpeg",
+            "description": "Raj Tiger & Anisha Ranghar."
+        },
+	{
+            "name": "PATWARI",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/patwari.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/patwari.jpeg",
+            "description": "Raj Tiger & Rohit Chauhan."
         }
+
 
     ]
 }
