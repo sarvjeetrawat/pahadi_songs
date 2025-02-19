@@ -299,8 +299,78 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/patwari.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/patwari.jpeg",
             "description": "Raj Tiger & Rohit Chauhan."
+        },
+	    {
+            "name": "Mijajya Sunaina",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/mijajya_sunaina.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/mijajya_sunaina.jpeg",
+            "description": "Deewan Singh Panwar & Meena Rana."
+        },
+	{
+            "name": "Pink Plazo",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pink_plazo.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pink_plazo.jpeg",
+            "description": "Suryapal Shriwan & Anisha Ranghar."
+        },
+	{
+            "name": "Gajra",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/gajra.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/gajra.jpeg",
+            "description": "Sanjay Bhandari & Anisha Ranghar."
+        },
+	{
+            "name": "Beda Gark",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/beda_gark.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/beda_gark.jpeg",
+            "description": "Sanjay Bhandari & Anissa Ranghar."
+        },
+	{
+            "name": "TARA LAGURE",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tara_lagure.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tara_lagure.jpeg",
+            "description": "Karishma Shah &Ruhaan Bhardwaj."
+        },
+	{
+            "name": "Himachali Syo ki Dani",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/himachali_syo_ki_dani.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/himachali_syo_ki_dani.jpeg",
+            "description": "Ruhaan Bhardwaj."
+        },
+	{
+            "name": "Bhagyani Bou",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bhagyani_bou.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bhagyani_bou.jpeg",
+            "description": "Rajanikant Semwal."
+        },
+	{
+            "name": "Sughadi Naari",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sughadi_naari.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/sughadi_naari.jpeg",
+            "description": "Priyanka Meher."
+        },
+	{
+            "name": "Dhana Dhana",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dhana.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhana.jpeg",
+            "description": "Priyanka Meher, Rongpaz."
+        },
+	{
+            "name": "Dhai Hathe Dhameli",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dhai_hathe_dhameli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhai_hathe_dhameli.jpeg",
+            "description": "Manoj arya - Priyanka Mehar."
+        },
+	{
+            "name": "Modern Kumaun",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/modern_kumaoun.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/modern_kumaoun.jpeg",
+            "description": "Inder Arya."
+        },
+	{
+            "name": "GHUMAI DE",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ghumai_de.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ghumai_de.jpeg",
+            "description": "PRIYANKA MEHER RAP by- RONGPAZ."
         }
-
-
     ]
 }
