@@ -539,6 +539,72 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/jakh_pinghli_fyoli_si.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/batwaru.jpeg",
             "description": "Udit Narayan."
+        },
+	{
+            "name": "Ikhi-E-Prithve Ma",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ikhi_e_prithivi_ma.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/nauchami_narayana.jpeg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Meru Dil Bhi Vhege Chori",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/meru_dil_bhi_hwege_chori.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/meru_dil_hwe_ge_chori.jpeg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Tin Kapali Pakadi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tin_kapali_pakdi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/maya_ku_mundaro.jpg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Sutra Ki Dhodi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sutra_ki_dhodi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/nauchami_narayana.png",
+            "description": "Narendra Singh Negi, Meena Rana."
+        },
+	{
+            "name": "Negi Dida Ya Geet Na Laga",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/negi_da_yna_geet_na_lga.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/surma_sarela.png",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Syali Ramdeyi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/syali_ramdeyi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/maachhi_pani_si.png",
+            "description": "Narendra Singh Negi, Anjali Khare."
+        },
+	{
+            "name": "Teri Aankhyun Ka Sawal",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/teri_aankhun_ka_sawal.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ajandi_bhagyani.png",
+            "description": "Narendra Singh Negi, Meena Rana."
+        },
+	{
+            "name": "Tain Jwani Ko Rajpat",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tain_jawani_ku_raaj.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/salyana_syali.jpg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Har Har Gange",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/har_har_gange.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/basant_aege.png",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Ikh Ma Chui Ukh Ma Chui",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ikh_ma_chui.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chuyal.png",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Pichne Pichne ku Holu",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pichne_pichne.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chuyal.png",
+            "description": "Narendra Singh Negi, Sushma Sharesht."
         }
 
     ]
