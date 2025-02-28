@@ -841,6 +841,48 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/khuti_rodige.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/khuti_rodige.jpg",
             "description": "Karishma shah."
+        },
+	    {
+            "name": "Shambhu Bholenath New Bhajan",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/shambhu_bholenath_new.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/shambhu_bholenath_new.jpeg",
+            "description": "O P Bhardwaj, Karishma Shah , Ruhaan Bhardwaj."
+        },
+	{
+            "name": "Gussa Na Kar",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/gussa_na_kar.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/gussa_na_kar.jpeg",
+            "description": "Ruhan Bhardwaj, Karishma Shah."
+        },
+	{
+            "name": "Jhumailo",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/jhumailo.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/jhumailo.png",
+            "description": "Ruhaan Bhardwaj, Karishma Shah."
+        },
+	{
+            "name": "Baand Chon Pahadi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/baand_cho_pahadi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/baand_cho_pahadi.jpg",
+            "description": "Karishma Shah, Ruhan Bhardwaj."
+        },
+	{
+            "name": "Santari Chhori",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/santri_chori.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/santri_chori.jpg",
+            "description": "Karishma Shah, Ruhan Bhardwaj."
+        },
+	{
+            "name": "Gopala Driver",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/gopala_driver.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/gopala_driver.jpg",
+            "description": "Karishma Shah, Ruhan Bhardwaj."
+        },
+	{
+            "name": "Tehri Ki Nathuli",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tehri_ki_nathuli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tehri_ki_nathuli.jpg",
+            "description": "Karishma Shah, Ruhan Bhardwaj."
         }
     ]
 }
