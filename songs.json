@@ -605,6 +605,12 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pichne_pichne.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chuyal.jpg",
             "description": "Narendra Singh Negi, Sushma Sharesht."
+        },
+	{
+            "name": "Teri Swani Mukhadi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/teri_swani_mukhdi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/teri_swani_mukhdi.jpg",
+            "description": "Virendra Rajput."
         }
 
     ]
