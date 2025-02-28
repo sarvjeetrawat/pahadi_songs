@@ -785,6 +785,56 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bauji_bana.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bauji_bana.jpg",
             "description": "L.B Shivam Bhatt."
+        },
+	    {
+            "name": "Dhaar Por Ka Mandir",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dhaar_por_ka_mandir.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhaar_por_ka_mandir.png",
+            "description": "Vinod Sirola, Anuradha Nirala."
+        },
+	{
+            "name": "Teri Meri Preet",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/teri_meri_preet.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhaar_por_ka_mandir.png",
+            "description": "Vinod Sirola, Anuradha Nirala."
+        },
+	{
+            "name": "Ganga Ka Chhaala",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ganga_ka_chhala.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhaar_por_ka_mandir.png",
+            "description": "Vinod Sirola."
+        },
+	{
+            "name": "Bathon Surya Surya",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/surya_surya.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/surya_surya.jpeg",
+            "description": "Kishan Mahipal."
+        },
+
+	{
+            "name": "Ranikheta Ramdhola",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ranikheta_ramdhola.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/samenya_bauji.jpeg",
+            "description": "Kishan Mahipal."
+        },
+	{
+            "name": "Semanya Bouji",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/samenya_bauji.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/samenya_bauji.jpeg",
+            "description": "Kishan Mahipal."
+        },
+
+	{
+            "name": "Ghagri Ka Ghera",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ghagri_ka_ghera.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tile_dharu_bola.jpg",
+            "description": "Narendra Singh Negi, Anuradha Nirala."
+        },
+	{
+            "name": "Sach Mana Na Mana",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sach_mana_ch_na_mana.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tile_dharu_bola.jpg",
+            "description": "Narendra Singh Negi, Anuradha Nirala."
         }
 
 
