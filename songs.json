@@ -883,6 +883,54 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tehri_ki_nathuli.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tehri_ki_nathuli.jpg",
             "description": "Karishma Shah, Ruhaan Bhardwaj."
+        },
+	{
+            "name": "RESHMI RUMAAL",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/resmi_rumaal.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/reshmi_rumaal.jpg",
+            "description": "Rohit Chauhan, Amit Kharee, Anjali Kharee."
+        },
+	{
+            "name": "BANI THANI",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bani_thani.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bani_thani.jpg",
+            "description": "Amit Kharee."
+        },
+	{
+            "name": "Roop Ki Dhani",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/roop_ki_dhani.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/roop_ki_dhani.png",
+            "description": "Amit Kharee, Anjali Kharee."
+        },
+	{
+            "name": "SYALI MERI RUKMA",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/syali_meru_rukma.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/syali_meru_rukma.jpeg",
+            "description": "Amit Kharee, Anjali Kharee."
+        },
+	{
+            "name": "Mera Mulak Chal",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/mera_muluk_chal.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/mera_muluk_chal.jpg",
+            "description": "Pritam Bharthwan, Meena Rana."
+        },
+	{
+            "name": "Bedu Pako Bara Maasa",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bedu_pako_baramasa.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bedu_pako.png",
+            "description": "Kalpna Chauhan."
+        },
+	{
+            "name": "Sweety",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sweety.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/sweety.jpg",
+            "description": "Rohit Chauhan, Raj Tiger, Meena Rana."
+        },
+	{
+            "name": "Dhaguli",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dhaguli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhaguli.jpeg",
+            "description": "Suryapal Shriwan, Anisha Ranghar."
         }
     ]
 }
