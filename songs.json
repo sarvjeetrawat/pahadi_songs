@@ -835,6 +835,12 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sach_mana_ch_na_mana.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tile_dharu_bola.jpg",
             "description": "Narendra Singh Negi, Anuradha Nirala."
+        },
+	{
+            "name": "KHUTI RODIGE",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/khuti_rodige.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/khuti_rodige.jpg",
+            "description": "Karishma shah."
         }
     ]
 }
