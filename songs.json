@@ -611,7 +611,182 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/teri_swani_mukhdi.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/teri_swani_mukhdi.jpg",
             "description": "Virendra Rajput."
+        },
+	    {
+            "name": "Chit Rumaal 2( Malumati )",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/chit_rumaal_2.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chit_rumaal_2.jpg",
+            "description": "Gajendra Rana."
+        },
+	{
+            "name": "Pushpa Chhori",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pushpa_chori.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pushpa_chori.jpeg",
+            "description": "Gajendra Rana, Sanjay Kumola."
+        },
+	{
+            "name": "Sobanu",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sobanu.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/sobanu.jpg",
+            "description": "Hema Negi Karasi."
+        },
+	{
+            "name": "Meri Bamani",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/meri_bamani.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/meri_bamani.jpg",
+            "description": "Hema Negi Karasi, Naveen Semwal."
+        },
+	{
+            "name": "Surju Mera",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sarju.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/sarju.jpg",
+            "description": " Meena Rana, Sanjay Kumola."
+        },
+	{
+            "name": "Heera Samdhini",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/heera_samdhini.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/heera_samdhini.jpg",
+            "description": "Gajender Rana."
+        },
+	{
+            "name": "Fwa Baga Re",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/fwa_baga_re.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/fwa_baga_re.jpg",
+            "description": "Pappu Karki."
+        },
+	{
+            "name": "Tak Taka Tak Kamla",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tak_taka_tak.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tak_taka_tak.jpg",
+            "description": "Lalit Mohan Joshi."
+        },
+	{
+            "name": "Motima",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/motima.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/motima.jpg",
+            "description": "Deepa Nagarkoti, Darshan farswan."
+        },
+	{
+            "name": "Nainitale Ki Madhuli",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/nainitali_ki_madhuli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/nainitali_ki_madhuli.jpg",
+            "description": "Lalit Mohan Joshi."
+        },
+	{
+            "name": "Gori Mukhdi Sajili",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/gori_mukhdi_sajili.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/meri_maaji.jpg",
+            "description": "Rohit Chauhan, Kalpana Chauhan."
+        },
+	{
+            "name": "MERI BHANULI",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/meri_bhanuli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/meri_maaji.jpg",
+            "description": "Rohit Chauhan."
+        },	
+	{
+            "name": "Babali Teroo Mobile",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/babli_tero_mobile.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/babli_tero_mobile.jpg",
+            "description": "Gajendra Rana."
+        },
+	{
+            "name": "Kya Dan Lagdi Tu",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kya_dan_lagdi_tu.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/babli_tero_mobile.jpg",
+            "description": "Gajendra Rana."
+        },
+	{
+            "name": "Furki Band",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/furki_band.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/furki_band.png",
+            "description": "Gajendra Rana."
+        },
+	{
+            "name": "Ghughuti",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ghughuti.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ghughuti.jpg",
+            "description": "Kishan Mahipal."
+        },
+	{
+            "name": "Syali Bampali",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/syali_bampali.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/syali_bampali.jpg",
+            "description": "Kishan Mahipal, Meena Rana."
+        },
+	{
+            "name": "Rangeeli Dhana",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/rangeeli_dhana.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/rangeeli_dhana.jpeg",
+            "description": "Sandeep Sonu."
+        },
+	{
+            "name": "Jodi First Class",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/jodi_first_class.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/jodi_first_class.jpg",
+            "description": "Inder Arya."
+        },
+	{
+            "name": "Nazar Na Lago",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/nazar_na_lago.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/nazar_na_lago.jpeg",
+            "description": "Inder Arya."
+        },
+	{
+            "name": "TU LAGI RE CHHE SWANA",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tu_lagi_chhe_re.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tu_lagi_chhe_re.jpeg",
+            "description": "Inder Arya, Mamta Arya."
+        },
+	{
+            "name": "Theth Pahadi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/thet_pahadi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/thet_pahadi.jpg",
+            "description": "Inder Arya, Anisha Ranghar."
+        },
+	{
+            "name": "Meri Jogyani",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/meri_jogyani.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/meri_jogyani.jpg",
+            "description": "Inder Arya, Jyoti Arya."
+        },
+	{
+            "name": "Mukhadi Be Chunri",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/mukhdi_be_chunri.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/mukhdi_be_chunri.jpeg",
+            "description": "Inder Arya."
+        },
+	{
+            "name": "Satke Lige Dil Madhuli",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/satke_lige_dil.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/satke_lige_dil.jpg",
+            "description": "Rohit Chauhan, Deepa Nagarkoti."
+        },
+	{
+            "name": "Tattoo",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tattoo.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tattoo.jpg",
+            "description": "Inder Arya, Asheem Mangoli."
+        },
+	{
+            "name": "SURMA PYARI",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/surma_pyari.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/surma_pyari.jpg",
+            "description": "Saurav Maithani, Sakshi Dobhal."
+        },
+	{
+            "name": "Chwiyon laganu Ku dhang",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/chwiyon_laganu_ku_dhang.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chwiyon_laganu_ku_dhang.jpg",
+            "description": "Ne-Yo Pharswan."
+        },
+	{
+            "name": "Bauji Bana",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bauji_bana.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bauji_bana.jpg",
+            "description": "L.B Shivam Bhatt."
         }
+
 
     ]
 }
