@@ -931,6 +931,126 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dhaguli.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dhaguli.jpeg",
             "description": "Suryapal Shriwan, Anisha Ranghar."
+        },
+	    {
+            "name": "TERA KHATIR",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tera_khatir.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tera_khatir.jpg",
+            "description": "Raj Tiger, Kiran Maratha."
+        },
+	{
+            "name": "POLICE",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/police.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/police.jpeg",
+            "description": "Rohit Chauhan, Raj Tiger."
+        },
+	{
+            "name": "PATWARI 2",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/patwari_two.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/patwari_two.jpeg",
+            "description": "Rohit Chauhan, Raj Tiger."
+        },
+	{
+            "name": "Chori Chalegi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/chori_chalige.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chori_chalige.jpg",
+            "description": "Raj Tiger, Anisha Ranger."
+        },
+	{
+            "name": "Naach Meri Radha",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/nach_meri_radha.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/nach_meri_radha.jpg",
+            "description": "Raj Tiger, Kiran Maratha."
+        },
+	{
+            "name": "Silki Meri Cha",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/silki_meri_cha.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/silki_meri_cha.jpeg",
+            "description": "Anil Raturi, Diwan Singh Panwar, Saurav Maithani, Sanjay Bhandari, Raj Tiger."
+        },
+	{
+            "name": "Kajal Kajal",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kajal_kajal.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kajal_kajal.jpg",
+            "description": "Anisha Ranghar, Madhusudan Nautiyal."
+        },
+	{
+            "name": "Meri Gharwali",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/meri_gharwali.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/meri_gharwali.jpeg",
+            "description": "Amit Kharee."
+        },
+	{
+            "name": "Furr Ghindudi Aaja",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/furr_ghindudi_aaja.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/furr_ghindudi_aaja.jpg",
+            "description": "Amit Saagar."
+        },
+	{
+            "name": "Kali Tikki Najar Na Lagu",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kali_tikki_nazar.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kali_tikki_nazar.jpg",
+            "description": "Keshar Panwar, Anisha Ranghar​."
+        },
+	{
+            "name": "MERI BASANTI (HOLI SONG)",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/meri_basanti.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/meri_basanti.jpg",
+            "description": "Rohit Chauhan."
+        },
+	{
+            "name": "Samlonya Rumaal",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/samlonya_rumaal.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/samlonya_rumaal.jpg",
+            "description": "Rohit Chauhan."
+        },
+	{
+            "name": "Syali New Garhwali Song 2022",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/syali_new.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/syali_new.jpg",
+            "description": "Aisha Siddiqui, Naveen Dhyani."
+        },
+	{
+            "name": "Chintu Ki Maaji",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/chintu_ki_maaji.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chintu_ki_maaji.jpeg",
+            "description": "Deewan Singh Panwar, Meena Rana."
+        },
+	{
+            "name": "Pingli Pichodi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pingli_pichodi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pingli_pichodi.jpeg",
+            "description": "Rohit Chauhan & Meena Rana."
+        },
+	{
+            "name": "BAND BIJORA",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/band_bijora.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/band_bijora.jpg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "KAB AELI",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kab_aeli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kab_aeli.jpg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "KAMERA MWARA",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kamera_mwara.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kamera_mwara.jpg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Mohana Teri Murali Baaji",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/mohana_teri_murli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/mohana_teri_murli.png",
+            "description": "Preetam Bharatwaan."
+        },
+	{
+            "name": "Batu Chh Samwar",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/batu_chaa_samwar.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/salyana_syali.jpg",
+            "description": "Narendra Singh Negi, Manju Sundriyal."
         }
     ]
 }
