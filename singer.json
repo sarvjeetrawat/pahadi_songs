@@ -2,11 +2,39 @@
     "singers": [
                 {
             "name": "Narendra Singh Negi",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/negi.webp"
+        },
+        {
+            "name": "Meena Rana",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/meena_rana.jpeg"
+        },
+        {
+            "name": "Anuradha Nirala",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/anuradha.webp"
+        },
+        {
+            "name": "Kishan Mahipal",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/kishan_mahipal.jpg"
+        },
+        {
+            "name": "Amit Khare",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/amit_khare.jpeg"
         },
-                {
-            "name": "Meena Rana",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/pingli_pichodi.jpeg"
+        {
+            "name": "Rohit Chauhan",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/rohit_chauhan.jpeg"
+        },
+        {
+            "name": "Priyanka Meher",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/priyanka_meher.jpeg"
+        },
+        {
+            "name": "Karishma Shah",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/karishma_shah.jpg"
+        },
+        {
+            "name": "Ruhaan Bhardwaj",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/ruhan_bhardwaj.jpeg"
         }
     ]
 }
