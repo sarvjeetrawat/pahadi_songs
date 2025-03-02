@@ -2,11 +2,11 @@
     "singers": [
                 {
             "name": "Narendra Singh Negi",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pingli_pichodi.jpeg"
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/amit_khare.jpeg"
         },
                 {
             "name": "Meena Rana",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pingli_pichodi.jpeg"
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/pingli_pichodi.jpeg"
         }
     ]
 }
