@@ -1,6 +1,12 @@
 {
+    "singers": [
+                {
             "name": "Narendra Singh Negi",
-            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pingli_pichodi.mp3",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pingli_pichodi.jpeg",
-            "description": "Rohit Chauhan & Meena Rana."
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pingli_pichodi.jpeg"
+        },
+                {
+            "name": "Meena Rana",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pingli_pichodi.jpeg"
         }
+    ]
+}
