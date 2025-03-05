@@ -1051,6 +1051,54 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/batu_chaa_samwar.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/salyana_syali.jpg",
             "description": "Narendra Singh Negi, Manju Sundriyal."
+        },
+	    {
+            "name": "Genda Phool (Pahari Version)",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/genda_phool.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/genda_phool.png",
+            "description": "Priyanka Meher, Rongpaz."
+        },
+	{
+            "name": "AINSHU KA BARAS",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ainshu_ka_baras.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ainshu_ka_baras.jpeg",
+            "description": "Priyanka Meher, Deepak Meher."
+        },
+	{
+            "name": "NIND CHORI",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/nind_chori.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/nind_chori.jpeg",
+            "description": "Priyanka Meher, Uk Rapi Boy."
+        },
+	{
+            "name": "Phool Khilala",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/phool_khilala.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/phool_khilala.jpg",
+            "description": "Priyanka Meher, Deepak Meher."
+        },
+	{
+            "name": "Maaji Mane delu",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/maaji_mane_delu.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/maaji_mane_delu.jpeg",
+            "description": "Priyanka Meher, Rongpaz."
+        },
+	{
+            "name": "Londa Mohana",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/londa_mohana.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/londa_mohana.jpeg",
+            "description": "Priyanka Meher, Rongpaz."
+        },
+	{
+            "name": "Banarasi Lehenga",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/banarasi_lehnga.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/banarasi_lehnga.jpg",
+            "description": "Manoj Arya, Priyanka Meher."
+        },
+	{
+            "name": "Paani Paani - Pahari Version",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/paani_paani.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/paani_paani.jpeg",
+            "description": "Priyanka Meher, Rongpaz, Uk Rapi Boy."
         }
     ]
 }
