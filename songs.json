@@ -1237,6 +1237,145 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/luki_chupi_dari_dari.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/luki_chupi_dari_dari.jpg",
             "description": "Narendra Singh Negi, Sushma Sharesht."
+        },
+	{
+            "name": "THENGA PAKAD",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/thenga_pakad.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/thenga_pakad.jpeg",
+            "description": "Deewan Singh Panwar, Seema Pangriyal."
+        },
+	{
+            "name": "LABRA CHORI",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/labra_chori.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/labra_chori.jpg",
+            "description": "Manglesh Dangwal."
+        },
+	{
+            "name": "Maya Band",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/maya_band.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/maya_band.jpeg",
+            "description": "Manglesh Dangwal, Meena Rana."
+        },
+	{
+            "name": "Balma",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/balma.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/balma.jpg",
+            "description": " Meena Rana, Sanjay Kumola."
+        },
+	{
+            "name": "Ye Ji Suna New Garhwali",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ye_ji_suna.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ye_ji_suna.jpg",
+            "description": "Priyanka Meher, Vishal Sharma."
+        },
+	{
+            "name": "DARJI BANIGYUN",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/darji_banigyun.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/darji_banigyun.jpeg",
+            "description": "Uttam rangra, Meena Rana."
+        },
+	{
+            "name": "Tin Chitthi Kile",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tin_chitthi_kile.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tin_chitthi_kile.JPG",
+            "description": "Suresh Kala, Meena Rana."
+        },
+	{
+            "name": "Uchi Uchi Heel",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/uchi_uchi_heel.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/uchi_uchi_heel.jpeg",
+            "description": "Inder Arya , Raj tiger."
+        },
+
+	{
+            "name": "O Sahiba",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/o_sahiba.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/o_sahiba.jpg",
+            "description": "Meena Rana."
+        },
+	{
+            "name": "PAYAL-PAYAL",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/payal_payal.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/payal_payal.JPG",
+            "description": "Gajendra Rana​."
+        },
+	{
+            "name": "Nainital Ki Chand Chakori",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/nainital_ki_chand_chakori.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/gabru_dida.jpg",
+            "description": "Gajender Rana, Meena Rana."
+        },
+	{
+            "name": "Pingli Saari Ma",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pingli_saari_ma.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pingli_saari_ma.JPG",
+            "description": "Sharvan Bhardwaj, Aakash Bhardwaj."
+        },
+	{
+            "name": "Lounda Chandra",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/londa_chandra.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/o_sahiba.jpg",
+            "description": "Meena Rana."
+        },
+	{
+            "name": "Mijajiya Meri Saunjadiya",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/mijajiya_meri_saunjadia.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/band_amravati.png",
+            "description": "Preetam Bhartwan."
+        },
+	{
+            "name": "Pahad Badiya Cha Ki",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/paad_badiya_cha_ki.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/band_amravati.png",
+            "description": "Preetam Bhartwan."
+        },
+	{
+            "name": "Viyakhan Hoige",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/viyakhan_hoige.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/band_amravati.png",
+            "description": "Preetam Bhartwan, Meena Rana."
+        },
+	{
+            "name": "Paani Bhar Lena",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/pani_bhar_lena.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/hey_kanchi.png",
+            "description": "Anil Bisht, Meena Rana."
+        },
+	{
+            "name": "Hey Kaanchi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/hey_kaanchi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/hey_kanchi.png",
+            "description": "Anil Bisht, Meena Rana."
+        },
+	{
+            "name": "Pyari Lachhi Maa",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pyari_lachima.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/hey_kanchi.png",
+            "description": "Anil Bisht."
+        },
+	{
+            "name": "Aija He Bhanumati Pabo Bajara",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/aija_hey_bhanumati.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pabo_bazara.jpg",
+            "description": "Anil Bisht."
+        },
+	{
+            "name": "Meri Sunita",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/meri_sunita.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/hey_kanchi.png",
+            "description": "Anil Bisht."
+        },
+	{
+            "name": "Thandu Mathu Chaumas",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/thandu_mathu_chaumas.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/mangtu_bolya.JPG",
+            "description": "Anil Bisht."
+        },
+	{
+            "name": "MYAR MULUK",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/myar_muluk.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/myar_muluk.JPG",
+            "description": "Sandeep Sonu, Kamla Jagetiya."
         }
     ]
 }
