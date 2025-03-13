@@ -1376,6 +1376,24 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/myar_muluk.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/myar_muluk.JPG",
             "description": "Sandeep Sonu, Kamla Jagetiya."
+        },    
+	{
+            "name": "BHABAR NI JAUNLA",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bhabar_ni_jola.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bhabar_ni_jola.JPG",
+            "description": "Narendra Singh Negi, Pratiksha Bamrara."
+        },
+	{
+            "name": "YAKHI BAASA RAEJOULA",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/yakhi_baasa_rajoula.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/yakhi_baasa_rajoula.jpg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Saruli",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/saruli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/saruli.png",
+            "description": "Preetam Bhartwan, Meena Rana."
         }
     ]
 }
