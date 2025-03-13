@@ -1394,6 +1394,36 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/saruli.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/saruli.png",
             "description": "Preetam Bhartwan, Meena Rana."
+        },
+	    {
+            "name": "Surma Sarela",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/surma_sarela.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/surma_sarela.JPG",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Dehradun Wala Hun",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dehradun_wala_hu.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/min_ti_suni.jpeg",
+            "description": "Narendra Singh Negi, Kavilas Negi."
+        },
+	{
+            "name": "Debaraa Harchi Geni",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/debraa_harchi_geni.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/debraa_harchi_geni.png",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Chullu Jagadi Bagat",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/chullu_jagadi_bagat.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tapkara.png",
+            "description": " Narander Singh Negi, Anurada Nirala."
+        },
+	{
+            "name": "June Sey Mukhri Jhunkhyalli",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/june_si_mukhdi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/june_si.jpg",
+            "description": "Narander Singh Negi, Rekha Dasmana, Anurada Nirala."
         }
     ]
 }
