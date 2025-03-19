@@ -1424,6 +1424,54 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/june_si_mukhdi.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/june_si.jpg",
             "description": "Narander Singh Negi, Rekha Dasmana, Anurada Nirala."
+        },
+	    {
+            "name": "Pingli Sadee l पिंगली साड़ी ",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pingali_sadi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pingali_sadi.jpeg",
+            "description": "Lalit Mohan Joshi."
+        },
+	{
+            "name": "Pahadi Bana",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/pahadi_bana.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/pahadi_bana.jpeg",
+            "description": "Vijay Prakash, Meena Rana."
+        },
+	{
+            "name": "Rashmi Chori",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/rashmi_chori.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/samenya_bauji.jpeg",
+            "description": "Kishan Mahipal, Meena Rana."
+        },
+	{
+            "name": "Bangaal Choori",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bagaal_choori.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bagaal_choori.jpg",
+            "description": "Kishan Mahipal."
+        },
+	{
+            "name": "Meri Bhauji Kamla",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/meri_bhauji_kamla.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chanda_band.jpg",
+            "description": "Rajju Bisht, Deepa Chauhan."
+        },
+	{
+            "name": "Leela Ghasiyari",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/leela_ghasyari.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/leela_ghasiyari.jpg",
+            "description": "Dwarka Nautiyal."
+        },
+	{
+            "name": "Leela Ghasyari 2",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/leela_ghasyari_2.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/leela_ghasyari_2.jpg",
+            "description": "Gajendra Rana."
+        },
+	{
+            "name": "Fyonladiya",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/fyonladiya.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/fyonladiya.jpg",
+            "description": "Kishan Mahipal."
         }
     ]
 }
