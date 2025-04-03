@@ -1472,6 +1472,24 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/fyonladiya.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/fyonladiya.jpg",
             "description": "Kishan Mahipal."
+        },
+	{
+            "name": "Teri Maya Ka Bathoun Maa ",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/teri_maya_ka_bathon_ma.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/samdola_ka_dwi_din.png",
+            "description": "Narendra Singh Negi, Meena Rana."
+        },
+	{
+            "name": "Samdola Ka Dwe Din",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/samdola_ka_dwe_din.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/samdola_ka_dwi_din.png",
+            "description": "Narendra Singh Negi, Meena Rana."
+        },
+	{
+            "name": "Sursurya Bathau",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sursurya_bathau.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/samdola_ka_dwi_din.png",
+            "description": "Narendra Singh Negi, Shashi Joshi, Meena Rana."
         }
     ]
 }
