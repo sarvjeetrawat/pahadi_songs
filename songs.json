@@ -1490,6 +1490,42 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sursurya_bathau.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/samdola_ka_dwi_din.png",
             "description": "Narendra Singh Negi, Shashi Joshi, Meena Rana."
+        },
+	    {
+            "name": "Chandra Singh Gadhwali",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/chandra_singh_garhwali.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chandra_singh_garhwali.jpg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Ke Bata Aali Ke Bata",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ke_bata_aali.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tile_dharu_bola.jpg",
+            "description": "Narendra Singh Negi, Anuradha Nirala."
+        },
+	{
+            "name": "Mul Mul Ke Ku",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/mul_mul_ke_ku.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tile_dharu_bola.jpg",
+            "description": "Anuradha Nirala."
+        },
+	{
+            "name": "GEET BHI GEET KI BAAT BHI-VOL 10",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/vol-10.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/vol-10.jpg",
+            "description": "Narendra Singh Negi."
+        },
+	{
+            "name": "Rusano Cha Sou Guru Rusele Rusandi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/rusano_cha_sou.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/june_si.jpg",
+            "description": "Narendra Singh Negi, Anuradha Nirala."
+        },
+	{
+            "name": "Aawa Dida Bhulo Aawa",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/aawa_dida_bhulo.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/june_si.jpg",
+            "description": "Narendra Singh Negi, Sushma Sharesht."
         }
     ]
 }
