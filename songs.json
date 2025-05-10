@@ -1526,6 +1526,36 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/aawa_dida_bhulo.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/june_si.jpg",
             "description": "Narendra Singh Negi, Sushma Sharesht."
+        },
+	{
+            "name": "Hitle Thuma Thum",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/hitle_thuma_thum.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/hitle_thuma_thum.jpg",
+            "description": "Darshan Farswan."
+        },
+	{
+            "name": "Camera",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/camera.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/camera.jpeg",
+            "description": "Pritam Bhartwan."
+        },
+	{
+            "name": "Surju Sunar",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/surju_sunar.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/surju_sunar.jpeg",
+            "description": "Vivek Nautiyal, Pratiksha Bamrara."
+        },
+	{
+            "name": "Sundari",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/Sundari.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/sundari.jpeg",
+            "description": "Sanjay Bhandari, Santoshi Bhandari."
+        },
+	{
+            "name": "Tero Thumka",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tero_thumka.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tero_thumka.jpg",
+            "description": "Rohit Chauhan."
         }
     ]
 }
