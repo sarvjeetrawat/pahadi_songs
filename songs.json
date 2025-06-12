@@ -1556,6 +1556,12 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tero_thumka.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tero_thumka.jpg",
             "description": "Rohit Chauhan."
+        },
+	{
+            "name": "NIDEKHI PAELI KABHI",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/nidekhi_pahli_kabhi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/nidekhi_pahli_kabhi.png",
+            "description": "Narendra Singh Negi."
         }
     ]
 }
