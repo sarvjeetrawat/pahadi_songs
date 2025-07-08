@@ -1562,6 +1562,36 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/nidekhi_pahli_kabhi.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/nidekhi_pahli_kabhi.png",
             "description": "Narendra Singh Negi."
+        },
+    	{
+            "name": "Nug Badiya",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/nug_badiya.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/nug_badiya.JPG",
+            "description": "Diksha Dhoundiyal."
+        },
+	{
+            "name": "Gift Kano Ka",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/gift_kano_ka.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/gift_kano_ka.jpg",
+            "description": "Rohit Chauhan."
+        },
+	{
+            "name": "Maa Ku Hathyun Khanu",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/maa_ku_hathyon_khaanu.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/maa_ku_hathyon_khaanu.jpg",
+            "description": "Amit Kharre."
+        },
+	{
+            "name": "Deepa Samdhani",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/deepa_samdhani.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/deepa_samdhani.jpg",
+            "description": "Vijay Prakash."
+        },
+	{
+            "name": "Ghungroo Tutige",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ghungroo_tutige.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ghungroo_tutige.jpeg",
+            "description": "Anurag Kant , Anjali Kharre."
         }
     ]
 }
