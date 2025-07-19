@@ -21,6 +21,10 @@
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/amit_khare.jpeg"
         },
         {
+            "name": "Inder Arya",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/inder_arya.jfif"
+        },
+        {
             "name": "Rohit Chauhan",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/rohit_chauhan.jpeg"
         },
@@ -31,10 +35,7 @@
         {
             "name": "Karishma Shah",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/karishma_shah.jpg"
-        },
-        {
-            "name": "Ruhaan Bhardwaj",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/singer_images/ruhan_bhardwaj.jpeg"
         }
+        
     ]
 }
