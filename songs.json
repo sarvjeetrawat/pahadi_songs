@@ -1592,6 +1592,60 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ghungroo_tutige.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ghungroo_tutige.jpeg",
             "description": "Anurag Kant , Anjali Kharre."
+        },
+    	{
+            "name": "Bhaguli",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bhaguli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/nug_bhaguli.jpg",
+            "description": " Lalit Gityar, Diksha Dhoundiyal."
+        },
+	{
+            "name": "Bhaguli Kumaoni Dj Song",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bhaguli_dj.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bhaguli_dj.PNG",
+            "description": "Bishan Singh Hariyala."
+        },
+	{
+            "name": "SHOBANA | सोबना",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sobana.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/sobana.jpg",
+            "description": "SAURAV MAITHANI, DEEPA NAGARKOTI CHAUHAN."
+        },
+	{
+            "name": "Rajuli",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/rajuli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/rajuli.jfif",
+            "description": "Jitendra Tomkyal, Mamta Arya."
+        },
+	{
+            "name": "Teri Ankhi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/teri_aankhi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/teri_aankhi.jpg",
+            "description": "Sandeep Sonu, Ruchi Jangpangi."
+        },
+	{
+            "name": "Mayadar Parani",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/mayadar_parani.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/mayadar_parani.jfif",
+            "description": "Naresh bisht, Sangeeta ."
+        },
+	{
+            "name": "Chaha Ko Hotel 2.0",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/chaha_ko_hotel_2.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/chaha_ko_hotel_2.jpg",
+            "description": "Manoj Arya, Mamta Arya."
+        },
+	{
+            "name": "Ramnagar Ki Lane",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/ramnagar_ki_lane.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/ramnagar_ki_lane.jfif",
+            "description": "Amit Kharre, Pratiksha Bamrara."
+        },
+	{
+            "name": "Dil Ki Baat",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dil_ki_baat.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dil_ki_baat.jfif",
+            "description": "Amit Kharre."
         }
     ]
 }
