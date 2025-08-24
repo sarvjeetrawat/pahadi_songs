@@ -1646,6 +1646,85 @@
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dil_ki_baat.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dil_ki_baat.jfif",
             "description": "Amit Kharre."
-        }
+        },
+		{
+            "name": "Kamla (New Jaunsari Song 2025)",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kamla_jaunsari.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kamla_jaunsari.jpg",
+            "description": "Sunny Dayal."
+        },
+	{
+            "name": "Kai Jhaguli",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kai_jhaguli.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kai_jhaguli.jpg",
+            "description": "Mamta Arya, Sanjay Bhandari."
+        },
+	{
+            "name": "Kujani( कुजाणी )",
+           		 "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kujani.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kujani.jpg",
+            "description": "Vivek Nautiyal."
+        },
+	{
+            "name": "Preet",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/preet.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/preet.jpg",
+            "description": "Suryapal Shriwan, Meena Rana."
+        },
+	{
+            "name": "Kajal Lagayi | काजल लगाई",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/kajal_lagayi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/kajal_lagayi.jpg",
+            "description": "Rohit Chauhan, Meghna Chandra."
+        },
+	{
+            "name": "Tha Lagi Ge",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/tha_lagi_ge.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/tha_lagi_ge.jpeg",
+            "description": "Inder Arya."
+        },
+	{
+            "name": "Rangeelo Dupatta",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/rangeelo_dupatta.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/rangeelo_dupatta.jpg",
+            "description": "Keshar Panwar, Anisha Ranghar."
+        },
+		{
+            "name": "RANGEELO DUPATTA NEW",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/rangeelo_dupatta2.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/rangeelo_dupatta2.jpg"
+            "description": "Suryapal Shriwan, Anisha Ranghar."
+        },
+		{
+            "name": "Taru Mijaji",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/taru_mijaji.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/taru_mijaji.jpg",
+            "description": "Suryapal Shriwan."
+        },
+	{
+            "name": "Katdana Saadi",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/katdana_saadi.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/katdana_saadi.jpg",
+            "description": "Suryapal Shriwan, Meena Rana."
+	},
+ 	{
+            "name": "PANCHHI BANI JULA",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/panchhi_bani_jula.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/panchhi_bani_jula.jpg",
+            "description": "Kailash Kumar, Ruchi Jangpangi."
+ 	},
+ 	{
+            "name": "Bolyali Min Paili",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bolyali_min_paili.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bolyali_min_paili.jpeg",
+            "description": "Ne-yo Pharswan, Pratiksha Bamrada."
+ 	},
+ 	{
+            "name": "MYAR DADA KU BYO",
+            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/myar_dada_ku_byo.mp3",
+            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/myar_dada_ku_byo.png",
+            "description": "Manoj Arya, Vijay Roy, Meena Rana."
+ 	}
+
     ]
 }
