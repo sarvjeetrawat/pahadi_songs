@@ -1708,22 +1708,22 @@
    	 		"description": "Suryapal Shriwan, Meena Rana."
 		},
  		{
-            "name": "PANCHHI BANI JULA",
-            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/panchhi_bani_jula.mp3",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/panchhi_bani_jula.jpg",
-            "description": "Kailash Kumar, Ruchi Jangpangi."
- 		},
- 		{
-            "name": "Bolyali Min Paili",
-            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bolyali_min_paili.mp3",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bolyali_min_paili.jpeg",
-            "description": "Ne-yo Pharswan, Pratiksha Bamrada."
- 		},
- 		{
-            "name": "MYAR DADA KU BYO",
-            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/myar_dada_ku_byo.mp3",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/myar_dada_ku_byo.png",
-            "description": "Manoj Arya, Vijay Roy, Meena Rana."
- 		}
+    "name": "PANCHHI BANI JULA",
+    "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/panchhi_bani_jula.mp3",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/panchhi_bani_jula.jpg",
+    "description": "Kailash Kumar, Ruchi Jangpangi."
+},
+{
+    "name": "Bolyali Min Paili",
+    "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/bolyali_min_paili.mp3",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/bolyali_min_paili.jpeg",
+    "description": "Ne-yo Pharswan, Pratiksha Bamrada."
+},
+{
+    "name": "MYAR DADA KU BYO",
+    "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/myar_dada_ku_byo.mp3",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/myar_dada_ku_byo.png",
+    "description": "Manoj Arya, Vijay Roy, Meena Rana."
+}
     ]
 }
