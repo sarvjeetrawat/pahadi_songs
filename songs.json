@@ -1726,16 +1726,16 @@
     "description": "Manoj Arya, Vijay Roy, Meena Rana."
 },
 {
-            "name": "Jiya Kori Kori Khando",
-            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/jiya_kori_kori_khando.mp3",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/jiya_kori_kori_khando.jpg",
-            "description": "Kishan Mahipal."
-},
-{
-            "name": "Swami Ji Please",
-            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/swami_ji.mp3",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/swami_ji.jpeg",
-            "description": "Priyanka Meher, Rongpaz."
-}
+    "name": "Jiya Kori Kori Khando",
+    "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/jiya_kori_kori_khando.mp3",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/jiya_kori_kori_khando.jpg",
+    "description": "Kishan Mahipal."
+  },
+  {
+    "name": "Swami Ji Please",
+    "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/swami_ji.mp3",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/swami_ji.jpeg",
+    "description": "Priyanka Meher, Rongpaz."
+  }
     ]
 }
