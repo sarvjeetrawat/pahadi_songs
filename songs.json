@@ -1737,12 +1737,6 @@
     "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/swami_ji.jpeg",
     "description": "Priyanka Meher, Rongpaz."
   },
-		{
-            "name": "Nug Badiya",
-            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/nug_badia.mp3",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/nug_badia.jpg",
-            "description": "Diksha Dhoundiyal"
-        },
         {
             "name": "Dandyon Ki Hilans",
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dandyon_ki_hilans.mp3",
