@@ -1737,11 +1737,17 @@
     "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/swami_ji.jpeg",
     "description": "Priyanka Meher, Rongpaz."
   },
-        {
-            "name": "Dandyon Ki Hilans",
-            "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dandyon_ki_hilans.mp3",
-            "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dandyon_ki_hilans.png",
-            "description": "Narendra Singh Negi, Anjali Kharre "
-        }	
+  {
+	"name": "Dandyon Ki Hilans",
+	"file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/dandyon_ki_hilans.mp3",
+	"image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/dandyon_ki_hilans.png",
+	"description": "Narendra Singh Negi, Anjali Kharre "
+   },
+	{
+	"name": "Sulpa Ki Saaj",
+	"file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/sulpa_ki_saaj.mp3",
+	"image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/sulpaa_ki.png",
+	"description": "Narendra Singh Negi, Anuradha Nirala "
+	}		
 ]
 }
