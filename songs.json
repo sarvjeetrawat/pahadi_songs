@@ -1755,6 +1755,13 @@
 	"file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/rama_ram_jhamm.mp3",
 	"image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/rama_ram_jhamm.png",
 	"description": "Narendra Singh Negi "
-	}		
+	},
+	{
+	"name": "Delhi Wala Dyura",
+	"file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/delhi_wala_dyura.mp3",
+	"image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/maya_ku_mundaro.jpeg",
+	"description": "Narendra Singh Negi",
+	"lyricsUrl": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/lyrics/delhi-wala-dyura.lrc"
+	}			
 ]
 }
