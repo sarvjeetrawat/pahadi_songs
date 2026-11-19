@@ -467,7 +467,8 @@
             "name": "Laagi Baduli",
             "file": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/songs/lagi_baduli.mp3",
             "image": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/images/lagi_baduli.jpg",
-            "description": "Narendra Singh Negi, Kishan Mahipal, Khushi Joshi."
+            "description": "Narendra Singh Negi, Kishan Mahipal, Khushi Joshi.",
+			"lyricsUrl": "https://raw.githubusercontent.com/sarvjeetrawat/pahadi_songs/main/lyrics/laagi_baduli.lrc"
         },
 	{
             "name": "Daina Hoya Kholi Ka",
